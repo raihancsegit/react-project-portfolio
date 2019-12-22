@@ -1,0 +1,23 @@
+.footer-wrapper {
+    box-shadow: 0 0 4px 0 rgba(0,115,230,.2);
+    margin-top: 5rem;
+}
+.widget-wrapper ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.widget-wrapper ul li a {
+ display: inline-block;
+ color: #222;
+ padding: 5px;
+ transition: all .4s linear 0s;
+}
+.widget-wrapper ul li a:hover {
+ text-decoration: none;
+ color: #666;
+}
+.footerBottom {
+ background-color: #0073e6;
+ padding: 20px 0;
+}

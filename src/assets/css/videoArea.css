@@ -1,0 +1,13 @@
+.videoWrap {
+    box-shadow: 0 0 4px 0 rgba(0,115,230,.2);
+    padding: 6rem 3rem;
+}
+button.icon {
+    font-size: 40px;
+    background-color: transparent;
+    border: 0;
+    color: #b90a4b;
+}
+button.icon:focus {
+    outline: 0;
+}
