@@ -15,7 +15,7 @@ class heroArea extends Component {
                       <Col>
                          <div className="heroWrapper">
                             <div className="heroContent text-center">
-                                <h1 className="text-white text-uppercase font-weight-bold">Software Engineer</h1>
+                                <h1 className="text-white text-uppercase font-weight-bold">Web Developer</h1>
                                 <h4 className="text-white subTitle">Mobile Apps Collections</h4>
                                 <Button varient="primary" className="btn btn-danger">Read More</Button>
                             </div>

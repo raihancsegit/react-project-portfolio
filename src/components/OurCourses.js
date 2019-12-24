@@ -16,7 +16,7 @@ export default class OurCourses extends Component {
                 <Row className="single-course mb-3">
                     <Col lg={6}>
                     <div className="feature-image">
-                        <img className="img-fluid" src="https://planetdigitalmedia.com/img/services/playing.png" alt="" />
+                        <img className="img-fluid" src="https://cdn3.wpbeginner.com/wp-content/uploads/2019/07/createonlinecoursewp.png" alt="" />
                     </div>
                     </Col>
                     <Col lg={6}>
@@ -32,7 +32,7 @@ export default class OurCourses extends Component {
                 <Row className="single-course mb-3">
                     <Col lg={6}>
                     <div className="feature-image">
-                        <img className="img-fluid" src="https://planetdigitalmedia.com/img/services/playing.png" alt="" />
+                        <img className="img-fluid" src="https://cdn3.wpbeginner.com/wp-content/uploads/2019/07/createonlinecoursewp.png" alt="" />
                     </div>
                     </Col>
                     <Col lg={6}>
@@ -48,7 +48,7 @@ export default class OurCourses extends Component {
                 <Row className="single-course mb-3">
                     <Col lg={6}>
                     <div className="feature-image">
-                        <img className="img-fluid" src="https://planetdigitalmedia.com/img/services/playing.png" alt="" />
+                        <img className="img-fluid" src="https://cdn3.wpbeginner.com/wp-content/uploads/2019/07/createonlinecoursewp.png" alt="" />
                     </div>
                     </Col>
                     <Col lg={6}>
@@ -64,7 +64,7 @@ export default class OurCourses extends Component {
                 <Row className="single-course mb-3">
                     <Col lg={6}>
                     <div className="feature-image">
-                        <img className="img-fluid" src="https://planetdigitalmedia.com/img/services/playing.png" alt="" />
+                        <img className="img-fluid" src="https://cdn3.wpbeginner.com/wp-content/uploads/2019/07/createonlinecoursewp.png" alt="" />
                     </div>
                     </Col>
                     <Col lg={6}>
